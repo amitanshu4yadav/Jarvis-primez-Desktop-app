@@ -1,0 +1,6 @@
+JarvisPrimez v1.5.1 - made by Amitanshu
+1. Extract this WHOLE folder (e.g. C:\JarvisPrimez). Do not run from inside the zip.
+2. Double-click JarvisPrimez.exe  (SmartScreen: More info > Run anyway).
+3. Sign in with Google (optional), paste your Gemini API key in Settings, say "Hi Primez".
+If the mic does not work: Windows Settings > Privacy & security > Microphone > allow desktop apps.
+This folder contains your Google OAuth config - do not upload it publicly.
