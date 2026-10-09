@@ -1,6 +1,11 @@
-JarvisPrimez v1.5.1 - made by Amitanshu
+JarvisPrimez v1.8.0 - made by Amitanshu
 1. Extract this WHOLE folder (e.g. C:\JarvisPrimez). Do not run from inside the zip.
 2. Double-click JarvisPrimez.exe  (SmartScreen: More info > Run anyway).
-3. Sign in with Google (optional), paste your Gemini API key in Settings, say "Hi Primez".
-If the mic does not work: Windows Settings > Privacy & security > Microphone > allow desktop apps.
+3. Settings: paste your Gemini key, set your Home city. Optional: a free Groq key (2nd AI + Whisper speech recognition).
+4. Say "Hi Primez" then try:
+   "Play Believer by Imagine Dragons" / "pause" / "next" / "volume up"
+   "Remind me to call mom in 10 minutes" / "Add milk to my shopping list"
+   "Remember that my birthday is June 5" / "Good morning" (daily briefing)
+   "What's the weather" / "What's the news" / "Make a presentation about space"
+Files are saved in Documents\JarvisPrimez and Pictures\JarvisPrimez. Your reminders, lists and notes are in the clock/list panel.
 This folder contains your Google OAuth config - do not upload it publicly.
